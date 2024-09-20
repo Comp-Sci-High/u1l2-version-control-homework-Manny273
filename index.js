@@ -22,7 +22,7 @@ console.log(gitRepoExplanation);
 
 // 3. Name the benefits of using version control.
 // Write your answer as an array of strings below, with each string being a benefit.
-let versionControlBenefits = [];
+let versionControlBenefits = ["better collaboration","Saving changes and reverting back more precise"];
 
 console.log("What are the benefits of using version control?");
 console.log(versionControlBenefits); 
