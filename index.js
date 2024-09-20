@@ -1,7 +1,7 @@
 // Version Control Assessment
 // 1. Explain what version control is.
 // Write your answer as a string and store it in the variable below:
-let versionControlExplanation = "";
+let versionControlExplanation = "Version control lets you access previous changes and revert back to those more precise, also better collaboration";
 
 console.log("What is version control?");
 console.log(versionControlExplanation); 
