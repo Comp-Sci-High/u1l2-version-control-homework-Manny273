@@ -15,7 +15,7 @@ console.log(versionControlExplanation);
 
 // 2. Explain what a Git repository is.
 // Write your answer as a string and store it in the variable below:
-let gitRepoExplanation = "";
+let gitRepoExplanation = "its a virtual storage of your project";
 
 console.log("What is a Git repository?");
 console.log(gitRepoExplanation); 
